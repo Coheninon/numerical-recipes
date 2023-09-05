@@ -25,5 +25,3 @@ while k < 25:
 print(s)
 plt.imshow(s)
 plt.show()
-
-
